@@ -1,0 +1,6 @@
+usr/local/bin/cryptocause-qt usr/bin
+share/pixmaps/cryptocause32.xpm usr/share/pixmaps
+share/pixmaps/cryptocause16.xpm usr/share/pixmaps
+share/pixmaps/cryptocause128.png usr/share/pixmaps
+debian/cryptocause-qt.desktop usr/share/applications
+debian/cryptocause-qt.protocol usr/share/kde4/services/
